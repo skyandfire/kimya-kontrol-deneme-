@@ -1,6 +1,6 @@
 {
-  "name": "Uygulama Adı",
-  "short_name": "Uygulama Adı",
+  "name": "kimyasal atık geri dönüsüm",
+  "short_name": "kagd",
   "description": "Kimyasal maddelerin geri dönüşüm uygunluğunu gösterir.",
   "lang": "tr",
   "start_url": "./",
